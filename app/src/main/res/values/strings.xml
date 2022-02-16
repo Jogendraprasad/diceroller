@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diceroller</string>
+    <string name="tap">TAP</string>
+    <string name="flower">Dice</string>
+</resources>
